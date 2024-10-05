@@ -3,12 +3,12 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently pursuing **BTech computer science**
+- - 📫 How to reach me **rishabh8444609@gmail.com**
+- ⚡ Fun fact **I think I am Exciting person 😅**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-s233&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-s233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh-s233" alt="rishabh-s233" /></a> </p>
-
-- 📫 How to reach me **rishabh8444609@gmail.com**
-- ⚡ Fun fact **I think I am Exciting person 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
